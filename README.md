@@ -5,3 +5,5 @@
 https://asciinema.org/a/EAZfGRGkp0VFYxQVW4OWeRSUV
 ## brain-calc:
 https://asciinema.org/a/83CfEsOrGremYSzkJFyKSBCIt
+## brain-gcd:
+https://asciinema.org/a/yHvnWBnfG8adgTIv8PchQpT3h
