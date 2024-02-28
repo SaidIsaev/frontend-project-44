@@ -7,3 +7,5 @@ https://asciinema.org/a/EAZfGRGkp0VFYxQVW4OWeRSUV
 https://asciinema.org/a/83CfEsOrGremYSzkJFyKSBCIt
 ## brain-gcd:
 https://asciinema.org/a/yHvnWBnfG8adgTIv8PchQpT3h
+## brain-progression:
+https://asciinema.org/a/FbnYP8oub5mSVLniyibrUeZgS
