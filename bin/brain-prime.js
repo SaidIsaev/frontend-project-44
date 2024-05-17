@@ -1,5 +1,5 @@
 #!/usr/bin/env node
-import gameBody from '../index.js';
+import gameBody from '../src/index.js';
 
 import task from '../src/games/prime.js';
 

@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 // import readlineSync from 'readline-sync';
 // import greeting from '../src/cli.js';
-import gameBody from '../index.js';
+import gameBody from '../src/index.js';
 
 import task from '../src/games/even.js';
 
